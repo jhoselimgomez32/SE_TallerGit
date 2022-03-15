@@ -1,1 +1,3 @@
-# SE_TallerGit
+Jhoselim Alexandra Gomez
+Construcción de software
+
